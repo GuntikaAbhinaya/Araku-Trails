@@ -398,11 +398,8 @@ ul {
    =================================== */
 .packages {
     padding: 40px 0;
-    <<<<<<< HEAD
     /*margin-top: 420px;*/
     margin-top: 550px;
-    =======margin-top: 550px;
-    >>>>>>>bf2bad1 (Updated styles.css)
     /* Position after carousel (80px top + 250px carousel height + 90px spacing) */
     background: transparent;
     position: relative;
@@ -555,9 +552,7 @@ ul {
     /* Brand green color */
     color: #ffffff;
     padding: 60px 0 0;
-    <<<<<<< HEAD margin-top: 150px;
-    =======margin-top: 150px;
-    >>>>>>>bf2bad1 (Updated styles.css)
+    margin-top: 150px;
 }
 
 /* Footer grid - 4 columns */
